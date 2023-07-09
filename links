@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DrowKid Links</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="icon" href="https://i.ibb.co/FVM0B7Z/me.jpg">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">    <script src="https://unpkg.com/feather-icons"></script>
+
+</head>
+
+<body>
+  <!-- Messenger Plugin de bate-papo Code -->
+  <div id="fb-root"></div>
+
+  <!-- Your Plugin de bate-papo code -->
+  <div id="fb-customer-chat" class="fb-customerchat">
+  </div>
+
+  <script>
+    var chatbox = document.getElementById('fb-customer-chat');
+    chatbox.setAttribute("page_id", "100119901786585");
+    chatbox.setAttribute("attribution", "biz_inbox");
+
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml: true,
+        version: 'v12.0'
+      });
+    };
+
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/pt_BR/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+  <main>
+    <header>
+      <a href="https://www.instagram.com/lalodk_01/" target="_blank" rel="noopener">
+        <img src="https://avatars.githubusercontent.com/u/127297730?v=4" alt="drowkid">
+        <h1>DrowKid</h1>
+        <p>@drowkid01 </p></a>
+</header>
+     <h1 class='titulo-sep'>Contáctame</h1>
+    <section><ul>
+        <a href="https://github.com/drowkid-1/" target="_blank" rel="noopener"><li
+            style="background: linear-gradient(to right, #8e2de2, #4a00e0);">
+            <i data-feather="github"></i>
+          </li>
+          <h2>GitHub</h2>
+          <span class='username'>@drowkid-1</span>
+        </a>
+
+
+        <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #0866C2, #044d96);">
+            <i data-feather="linkedin"></i>
+          </li>
+          <h2>LinkedIn</h2>
+          <span class='username'>@drowkid01</span>
+        </a>
+
+        <a href="https://www.tiktok.com/@drowkid01" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #EE1D52, #69C9D0);">
+            <img class="svg-white" src="tiktok.png" alt="TikTok logo">
+          </li>
+          <h2>TikTok</h2>
+          <span class='username'>@drowkid-1</span>
+        </a>
+
+
+        <a href="https://discord.bio/" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #2673ca, #346485);">
+            <img style="width: 30px;height: 30px; object-fit: fill;" src="discord.png" alt="Discord logo">
+          </li>
+          <h2>Discord</h2>
+          <span class='username'>@drowkid01</span>
+        </a>
+
+
+
+        <a href="https://app.rocketseat.com.br/" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #9676FC, #765dca);">
+            <img class="svg-white" src="svg0.svg" alt="Rocketseat logo">
+          </li>
+          <h2>Rocketseat</h2>
+          <span class='username'>@drowkid01</span>
+        </a>
+
+        <a href="https://www.instagram.com/drowkid01/" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #8e2de2, #e2c72d);">
+            <i data-feather="instagram"></i>
+          </li>
+          <h2>Instagram</h2>
+          <span class='username'>@drowkid01</span>
+        </a>
+
+      </ul>
+    </section>
+
+    <hr style="margin-top:10%;height:1px;border-width:0;color:white;background-color:gray">
+
+    <h1 class='titulo-sep'>Enlaces que podrían interesarte</h1>		
+    <section>
+      <ul>
+        <a href="https://drowlinks.bswc.net" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #8e2de2, #4a00e0);">
+            <span class="new">+ Temas Agregados</span>
+            <span class='uteis'>
+              DrowLinks : Links in Bio
+            </span>
+          </li>
+        </a>
+        <a href="https://drowkid.bswc.net/tools.html" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #8e2de2, #4a00e0);">
+            <span class="new">Nuevos scripts </span>
+            <span class='uteis'>
+              DrowScripts
+            </span>
+          </li>
+        </a>
+        <a href="https://drowapps.bswc.net" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #8e2de2, #4a00e0);">
+            <span class="new">Nueva App</span>
+            <span class='uteis'>
+              Apps de DrowKid
+            </span>
+          </li>
+        </a>
+        <a href="https://pingback.com/luizmello/swift-o-one-more-thingda-apple-que-agradou-milharesde-desenvolvedores" target="_blank" rel="noopener">
+          <li
+            style="background: linear-gradient(to right, #8e2de2, #4a00e0);">
+            <span class="new">Recien agregadas</span>
+            <span class='uteis'>
+              Tools y cuentas
+            </span>
+          </li>
+        </a>
+      </ul>
+    </section>
+  </main>
+  <script>
+    feather.replace()
+  </script>
+</body>
+</html>
