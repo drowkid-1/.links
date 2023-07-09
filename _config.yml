@@ -39,7 +39,7 @@ links:
 
      # THREADS.NET
   - Name: Plantillas Web
-    URL: https://drowkid.mywebs.tw
+    URL: links.html
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
