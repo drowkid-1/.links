@@ -26,7 +26,7 @@ links:
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: lalodk_01
+    Username: lalo_01dk
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
@@ -39,7 +39,7 @@ links:
 
      # THREADS.NET
   - Name: Plantillas Web
-    URL: links.html
+    URL: https://drowkid.my.to/links2.html
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
@@ -53,7 +53,7 @@ links:
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
+    URL: 'mailto:support@drowkid.bswc.net'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
